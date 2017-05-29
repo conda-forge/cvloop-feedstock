@@ -1,6 +1,6 @@
 {% set name = "cvloop" %}
-{% set version = "0.3.3" %}
-{% set sha256 = "9dfa8cdcabec9b380137b10bf1b7d6aa3b3905445318e534c0979f52eaaf9efd" %}
+{% set version = "0.3.4" %}
+{% set sha256 = "83a6cc9457b3f9d504f0778d2b6237fb7c4e88b63ef5a80ee8287a8fc34330a4" %}
 
 package:
   name: {{ name|lower }}
